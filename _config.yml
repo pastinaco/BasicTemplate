@@ -5,6 +5,9 @@ collections:
   posts:
     title: Posts
     output: true
+  puzzles:
+    title: Puzzles
+    output: true
   representatives:
     title: Representatives
     output: false
