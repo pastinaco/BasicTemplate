@@ -1,6 +1,6 @@
 ---
-title: Indivisible City
-timezone: UTC
+title: Indivisible San Jose
+timezone: America/Los_Angeles
 collections:
   posts:
     title: Posts
@@ -57,9 +57,8 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are thousands of local citizens resisting the Trump agenda through civic
-  action.
-email: 
+subtitle: We are hundreds of local citizens resisting the Trump agenda through civic action.
+email: indivisiblesanjose@gmail.com
 baseurl: 
 url: 
 twitter_username: 

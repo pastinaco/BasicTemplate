@@ -22,20 +22,10 @@ layout: default
 
         <div class="media-body">
           <h4 class="mt-2 mb-2">Join {{ site.title | escape }}</h4>
-          <p class="card-text">Join our email list to get email updates on meeting times, announcements, action items, and more.</p>
-          {% if page.mailchimp-form-embed %}
-          <div class="row">
-            <div class="col-sm-8 col-md-6">
-
-                {{ page.mailchimp-form-embed }}
-
-             </div>
-           </div>
-           {% else %}
-           <p class="text-danger">No mailing list set up yet. Add one by logging into Siteleaf, editing this page, and pasting one into the <em>mailchimp-form-embed</em> field.</p>
-           {% endif %}
+          <p class="card-text">Join our Facebook group to get updates, or send us an email at 
+                <a href="mailto:{{ site.email }}?subject=Please add me to your email list." class="ml-auto">{{site.email}}</a>
+                and ask to be added to our email-only list.</p>
         </div>
-
       </div>
 
       <hr>
