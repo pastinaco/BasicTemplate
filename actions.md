@@ -6,3 +6,5 @@ layout: actions
 ---
 
 Get the T-Shirt and show your Indivisible San Jose Pride!
+
+![join the resistance.jpg](/uploads/join%20the%20resistance.jpg)
