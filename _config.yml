@@ -17,6 +17,7 @@ collections:
   test-collection:
     title: Test Collection
     output: true
+    test-field: Test-value
   uploads:
     title: Uploads
     output: true
